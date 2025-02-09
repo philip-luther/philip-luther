@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Senior+Bloclchain+Developer+!)](https://seniorblockchain.io)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qRDjvIePqf15S6N1QS/giphy.gif" width="500" height="320" />
-
 ---
 ## 🔨 **Tech Stack** 💻
 
