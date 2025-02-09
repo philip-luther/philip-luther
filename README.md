@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Senior+Bloclchain+Developer+!)](https://seniorblockchain.io)
+I'm **Philip**, a Senior Software Engineer with extensive experience in creating decentralized applications, smart contracts, and Web3 solutions. 🌐 I love building secure, scalable, and innovative blockchain systems to disrupt industries and empower users. 🚀
 ---
 ## 🔨 **Tech Stack** 💻
 
