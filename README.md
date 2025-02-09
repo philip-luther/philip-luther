@@ -20,10 +20,3 @@
 
 ---
 
-## 🌟 **Achievements** 🏆
-
-- 🔥 Contributed to **open-source blockchain projects** on GitHub 🌍
-- 📚 Published articles and tutorials on blockchain development 📖
-- 🏆 Awarded **Top 100 Blockchain Innovators** by [Blockchain Tech Magazine] (Insert Link) 🏅
-
----
